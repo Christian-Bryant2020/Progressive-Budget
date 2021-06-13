@@ -15,11 +15,10 @@
   https://christian-bryant2020.github.io/Progressive-Budget/
   ## Contributing
   https://github.com/Christian-Bryant2020/Progressive-Budget
-  ## Tests
+  ## Demo
   insert demo here
   ## Questions
   Please reach out with any questions through the links below:
   - https://github.com/christian-bryant2020
   - bryant.christian2020@gmail.com
-  ## License
   
